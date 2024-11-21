@@ -2,3 +2,5 @@
 Complete assignment as assigned.
 
 Note, no make file is provided.  It is suggested you create one to be more efficient building your programs.
+
+Nicholas Bergst, Section 111, Lab10
